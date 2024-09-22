@@ -1,9 +1,6 @@
 # testrepo
 
 
-changeschangeschangeschangeschangeschanges
+Editing the file
 
-changeschangeschangeschangeschangeschangeschangeschangeschangeschangeschangeschanges
-changeschangeschangeschangeschangeschanges
-
-changeschangeschangeschangeschangeschanges
+It's a markdown file in this repository
